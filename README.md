@@ -1,2 +1,3 @@
 # Car_Garage_designing_Asignment_DSA
-Problem statement:&lt;/br>
+**Problem statement**:</br>
+A parking garage contains a single lane and hold 8 cars. Garage has only 1 one entry and one exit. If a person arrives and takes his/her car that is not nearest to exit, all cars blocking its path are moved out then the person’s car is driven out and other cars are restored in same order as they were originally. WAP that process a group of inputs Each input line contains an A – arrival & D- Departure and a licence plate no. Cars are assumed to arrive and depart in the order specified by the input. The program should print a message when car whenever car arrives / departs. When car arrives, the message should specify whether / not there is a room for the car in the garage. If there is no room the car leaves without entering garage. When a car departs, the message should include the no of times that the car was moved out of the garage to allow other cars to depart. 
